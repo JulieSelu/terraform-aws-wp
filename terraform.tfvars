@@ -1,0 +1,5 @@
+username = "test"
+password = "test123456"
+dbname   = "wordpress"
+ssh_key_name = "aws_eu_key"
+ssh_priv_key = "~/Downloads/aws_eu_key.pem"
